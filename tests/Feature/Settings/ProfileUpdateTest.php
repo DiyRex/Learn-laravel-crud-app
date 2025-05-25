@@ -1,4 +1,4 @@
-<?php
+git branch -M main<?php
 
 use App\Models\User;
 
